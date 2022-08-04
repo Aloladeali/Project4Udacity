@@ -5,7 +5,7 @@ In this project I applied  the skills I acquired in this course to operationaliz
 
 This entire project was built, tested and run using AWS Cloud9, Docker, Hadolint, Github and CircleCI.
 
-The application was containerized using the Dockerfile, after which it was deployed to Docker and was used to make predictions. As instructed, and exta log statement was added to the app.py file.
+The application was containerized using the Dockerfile, after which it was deployed to Docker and was used to make predictions. As instructed, an extra log statement was added to the app.py file.
 
 Kubernetes was used to deploy a container, and predictons were made.
 
