@@ -2,9 +2,13 @@
 ## Project Summary
 
 In this project I applied  the skills I acquired in this course to operationalize a Machine Learning Microservice API.
+
 This entire project was built, tested and run using AWS Cloud9, Docker, Hadolint, Github and CircleCI.
-The application was containerized using the Dockerfile, after which it was deployed to Docker and was used to make descriptions. As instructed, and exta log statement was added to the app.py file.
+
+The application was containerized using the Dockerfile, after which it was deployed to Docker and was used to make predictions. As instructed, and exta log statement was added to the app.py file.
+
 Kubernetes was used to deploy a container, and predictons were made.
+
 Finally, all changes were pushed to Github and connected to CircleCI.
 
 
